@@ -1,2 +1,2 @@
 # se_gpt
-Complete before attending the acl meeting.
+Complete before 10.1.
