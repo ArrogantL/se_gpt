@@ -5,7 +5,7 @@ Dear Readers,
 
 Thank you for your attention to our work!
 
-We plan to submit a progress paper on improving SE-GPT to ACL ARR October 2024.
+We plan to submit a progress paper on improving SE-GPT to ACL ARR December 2024.
 This progress paper primarily addresses the issues of se-gpt related to high time 
 and financial costs and the lack of adaptability to various task types. 
 Due to the code reuse and overlapping research paths of both projects, 
