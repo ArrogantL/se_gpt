@@ -1,25 +1,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Dear Readers,
 
-Thank you for your attention to our work!
 
-We plan to submit a progress paper on improving SE-GPT to ACL ARR December 2024.
-This progress paper primarily addresses the issues of se-gpt related to high time 
-and financial costs and the lack of adaptability to various task types. 
-Due to the code reuse and overlapping research paths of both projects, 
-coupled with the intense competition in the current NLP field, 
-we will delay releasing the complete code until after the paper notification.
-We hope for your understanding. 
-
-To minimize the inconvenience caused, 
-we share some experiences below related to experiential learning. 
-In addition, we provide this code file, a preview that contains the main framework but lacks some details, 
-which can make it easier for you to code for your own tasks. 
-Of course, you are also welcome to email me (jlgao@ir.hit.edu.cn) to 
-discuss the application of experiences to tasks of your interest (if our research directions do not conflict).
- More in-depth paper collaborations (co-authorship) are also expected.
 
 The concept of textual experience is gradually becoming a popular topic 
 at conferences such as EMNLP 2023 (four main papers and two findings papers) and AAAI.
