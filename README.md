@@ -2,6 +2,7 @@
 
 se_gpt_MAIN.py shows the main work flow of our framework.
 
+```
 @inproceedings{gao-etal-2024-self-evolving,
     title = "Self-Evolving {GPT}: A Lifelong Autonomous Experiential Learner",
     author = "Gao, Jinglong  and
@@ -23,3 +24,4 @@ se_gpt_MAIN.py shows the main work flow of our framework.
     doi = "10.18653/v1/2024.acl-long.346",
     pages = "6385--6432"
 }
+```
